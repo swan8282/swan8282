@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 팀 개발을 위한 git github 시작하기
+
+![image](https://github.com/user-attachments/assets/7516c404-2689-4545-916a-2c1aa7d50928)
+
+### : octocat : 나는 승완
+
+- 🤔 Hi
+- ⚡ 찌릿찌릿
+- 😄
